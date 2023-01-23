@@ -2,9 +2,10 @@
 
 <!-- <h3 align="center">Novice developer from Moscow 🇷🇺</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Beginner+Python+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Markdown+Font+&size=25&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Beginner+Python+developer)](https://git.io/typing-svg)
   
 ## About me
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Markdown+Font+&size=25&pause=1000&color=000000&width=435&lines=About+me)](https://git.io/typing-svg) -->
 #### My name is *Tikhon*. I started learning Python on my own in 2020. Mostly on books, documentation and training courses.
 
 <sup>Now I am **a beginner Python developer** and continue to develop in this direction. In order to achieve good results, I am ready to immerse myself in tasks with my head, grow above myself, replenish my knowledge and improve my skills! </sup>
