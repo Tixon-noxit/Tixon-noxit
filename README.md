@@ -2,7 +2,7 @@
 
 <!-- <h3 align="center">Novice developer from Moscow 🇷🇺</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Markdown+Font+&size=25&pause=1000&color=808080&center=true&vCenter=true&multiline=true&width=435&lines=Beginner+Python+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Markdown+Font+&size=25&pause=1000&color=808080&center=true&vCenter=true&multiline=true&width=435&lines=Beginner+programmer)](https://git.io/typing-svg)
   
 ## About me
 #### My name is *Tikhon*. I started learning Python on my own in 2020. Mostly on books, documentation and training courses.
