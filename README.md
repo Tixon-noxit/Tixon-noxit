@@ -14,6 +14,8 @@
   
   - Unfinished higher musical education (2018-2022)
 
+  - School21 (2023-...)
+
 <!-- ## Skills / Knowledge
   - Read books:
     - First book -->
