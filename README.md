@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Tikhon</a> 
+<h1 align="center">Hi there, I'm <a href="https://tixon-noxit.github.io/" target="_blank">Tikhon</a> 
 
 <!-- <h3 align="center">Novice developer from Moscow 🇷🇺</h3> -->
 
