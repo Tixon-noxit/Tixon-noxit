@@ -5,9 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Markdown+Font+&size=25&pause=1000&color=808080&center=true&vCenter=true&multiline=true&width=435&lines=Beginner+programmer)](https://git.io/typing-svg)
   
 ## About me
-#### My name is *Tikhon*. I started learning on my own in 2020. Mostly on books, documentation and training courses.
-<sup>Now I am **a beginner С/С++ developer** and continue to develop in this direction. In order to achieve good results, I am ready to immerse myself in tasks with my head, grow above myself, replenish my knowledge and improve my skills! </sup>
-<hr>
+#### My name is **Tikhon**. I'm a backend developer with **6 years of experience**, specializing in **Python**.
+I graduated from **School 21** (Ecole 42 network) — a project-based learning environment that shaped my approach to problem-solving: dive deep, understand fundamentals, and write clean, efficient code.
+Currently expanding my expertise into **C/C++** to deepen my understanding of systems programming and performance optimization.
+Always ready for challenging tasks, continuous learning, and writing code that matters.
   
 ## Education
   - Secondary vocational musical education (2014-2018)
