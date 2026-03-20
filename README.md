@@ -6,7 +6,7 @@
   
 ## About me
 #### My name is **Tikhon**. I'm a backend developer with **6 years of experience**, specializing in **Python**.
-I graduated from **School 21** (Ecole 42 network) — a project-based learning environment that shaped my approach to problem-solving: dive deep, understand fundamentals, and write clean, efficient code.
+I graduated from **School 21** — a project-based learning environment that shaped my approach to problem-solving: dive deep, understand fundamentals, and write clean, efficient code.
 Currently expanding my expertise into **C/C++** to deepen my understanding of systems programming and performance optimization.
 Always ready for challenging tasks, continuous learning, and writing code that matters.
   
