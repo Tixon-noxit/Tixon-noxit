@@ -11,32 +11,44 @@ Currently expanding my expertise into **C/C++** to deepen my understanding of sy
 Always ready for challenging tasks, continuous learning, and writing code that matters.
   
 ## Education
-  - Secondary vocational musical education (2014-2018)
-  
-  - Unfinished higher musical education (2018-2022)
+| Period | Institution |
+|--------|-------------|
+| 2023 – 2025 | **School 21** (Ecole 42 network) — intensive software engineering program |
+| 2018 – 2022 | Higher Musical Education (incomplete) |
+| 2014 – 2018 | Secondary Vocational Musical Education |
 
-  - School21 (2023-2025)
+
+
+
+### Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+### Systems / Low-level
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
+
+### Frontend basics
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
+
+## Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tixon-noxit&repo=LockerBox)](https://github.com/Tixon-noxit/LockerBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tixon-noxit&repo=Sait_designer_portfolio)](https://github.com/Tixon-noxit/Sait_designer_portfolio)
+
+---
+
+## GitHub Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tixon-noxit&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- ## Skills / Knowledge
   - Read books:
     - First book -->
-  
-<hr>
-
-<div style="display: inline">
-<image src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<image src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<image src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoREST">
-<image src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<image src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white" alt="C++">
-<image src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<image src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<image src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tixon-noxit)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tixon-noxit&repo=LockerBox)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tixon-noxit&repo=Sait_designer_portfolio)](https://github.com/anuraghazra/github-readme-stats)
-  
