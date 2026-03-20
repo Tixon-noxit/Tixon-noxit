@@ -13,7 +13,7 @@ Always ready for challenging tasks, continuous learning, and writing code that m
 ## Education
 | Period | Institution |
 |--------|-------------|
-| 2023 – 2025 | **School 21** (Ecole 42 network) — intensive software engineering program |
+| 2023 – 2025 | **School 21** — intensive software engineering program |
 | 2018 – 2022 | Higher Musical Education (incomplete) |
 | 2014 – 2018 | Secondary Vocational Musical Education |
 
