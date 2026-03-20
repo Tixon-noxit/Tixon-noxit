@@ -2,7 +2,7 @@
 
 <!-- <h3 align="center">Novice developer from Moscow 🇷🇺</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Markdown+Font+&size=25&pause=1000&color=808080&center=true&vCenter=true&multiline=true&width=435&lines=Beginner+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+C%2F%2B%2B;School+21+Alumni;6%2B+years+of+experience)](https://git.io/typing-svg)
   
 ## About me
 #### My name is **Tikhon**. I'm a backend developer with **6 years of experience**, specializing in **Python**.
